@@ -3,8 +3,6 @@
 
 MirrorFX-Studio is an interactive computer vision project that transforms a live webcam feed into an artistic **digital mirror**. Using **hand gestures**, users can seamlessly switch between multiple visual rendering styles such as dots, edge outlines, ASCII art, and particle effects, all in real time.
 
-This project blends **Computer Vision, Human Computer Interaction (HCI), and Creative Coding**, making it ideal for portfolios, hackathons, and AR/AI demonstrations.
-
 ---
 
 ## ✨ Features
